@@ -1,4 +1,4 @@
-# Minimum Viable Product (MVP) Template
+# Minimum Viable Product (MVP)
 
 ## Has the MTA demand really decreased since COVID-19?
 
