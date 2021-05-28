@@ -19,4 +19,4 @@ The open-source software Jupyter Notebook was used running Python tools to clean
 
 ## Communication
 By using this link provided, the slides used during the presentation may be accessed. On the graph below, I have summarized the project findings.
-
+![](https://github.com/dieguque/MTA/blob/6691ba870fd38c6fa2fae74a5322add94fc74d72/MTA_entries1.png)
