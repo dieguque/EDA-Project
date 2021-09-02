@@ -1,4 +1,4 @@
-# Has the demand for the MTA subway been affected during COVID-19?
+# MTA subway demqnd during COVID-19?
 Diego Duque
 
 ## Abstract
