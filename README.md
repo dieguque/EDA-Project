@@ -1,4 +1,4 @@
-# MTA subway demqnd during COVID-19?
+# MTA subway demand during COVID-19?
 Diego Duque
 
 ## Abstract
